@@ -49,6 +49,6 @@
 ---
 
 ### 🌐 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-Ahmed--Labib-black)](https://github.com/Ahmed-Labib)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed--Labib-blue)](https://linkedin.com/in/ahmed-labib)  
+[![GitHub](https://img.shields.io/badge/GitHub-Ahmed--Labib-black)](https://github.com/ahmedlapip)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed--Labib-blue)](https://www.linkedin.com/in/ahmed-a-a-labib)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Oak-orange)](https://codeforces.com/profile/-Oak-)  
