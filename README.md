@@ -2,7 +2,7 @@
 
 ### Data Science Enthusiast | CS Student at Ain Shams University  
 🚀 Passionate about leveraging data to solve real-world problems and building impactful systems.  
-📄 **[My CV (PDF)](https://github.com/Ahmed-Labib/Ahmed-Labib-CV/blob/main/Ahmed_CV_2025___Jun.pdf)**  
+📄 **[My CV (PDF)]( https://github.com/ahmedlapip/Ahmed-Labib/blob/main/Ahmed_CV_2025___Jun.pdf)**  
 
 ---
 
